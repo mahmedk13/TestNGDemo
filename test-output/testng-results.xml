@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50997" started-at="2019-11-02T06:13:32Z" finished-at="2019-11-02T06:14:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50997" started-at="2019-11-02T06:13:32Z" finished-at="2019-11-02T06:14:23Z">
+      <class name="ExcelDemo.TestNGBasics1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="setUp" is-config="true" duration-ms="14" started-at="2019-11-02T06:13:32Z" finished-at="2019-11-02T06:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToFacebook()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="navigateToFacebook" is-config="true" duration-ms="7078" started-at="2019-11-02T06:13:33Z" finished-at="2019-11-02T06:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToFacebook -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="doLogin" duration-ms="8861" started-at="2019-11-02T06:13:40Z" data-provider="getData" finished-at="2019-11-02T06:13:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="tearDown" is-config="true" duration-ms="1325" started-at="2019-11-02T06:13:49Z" finished-at="2019-11-02T06:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="navigateToFacebook()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="navigateToFacebook" is-config="true" duration-ms="6089" started-at="2019-11-02T06:13:50Z" finished-at="2019-11-02T06:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToFacebook -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="doLogin" duration-ms="8603" started-at="2019-11-02T06:13:56Z" data-provider="getData" finished-at="2019-11-02T06:14:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hij]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[klm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="tearDown" is-config="true" duration-ms="1266" started-at="2019-11-02T06:14:05Z" finished-at="2019-11-02T06:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="navigateToFacebook()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="navigateToFacebook" is-config="true" duration-ms="7389" started-at="2019-11-02T06:14:06Z" finished-at="2019-11-02T06:14:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToFacebook -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="doLogin" duration-ms="8242" started-at="2019-11-02T06:14:14Z" data-provider="getData" finished-at="2019-11-02T06:14:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mno]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pqr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ExcelDemo.TestNGBasics1@27efef64]" name="tearDown" is-config="true" duration-ms="1291" started-at="2019-11-02T06:14:22Z" finished-at="2019-11-02T06:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ExcelDemo.TestNGBasics1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
